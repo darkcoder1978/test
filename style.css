@@ -1,0 +1,26 @@
+  body {
+        background-color:black;
+    } 
+    
+    h1 {
+        text-align:center;
+        color:cyan;
+        font-size:25px;
+    }
+    li {
+        text-align:center;
+        color:cyan;
+    }
+
+    
+    a:link {
+        color:yellow;
+        text-decoration:none;
+    }
+    a:visited {
+        color:white;
+    }
+    a:hover {
+        color:teal;
+    }
+</style>    
